@@ -973,6 +973,16 @@
     },
 
     {
+        "name": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/nuke",
+        "difficulty": "easy",
+        "notes": "They require you to select a reason before deleting.",
+        "domains": [
+            "crunchyroll.com"
+        ]
+    },
+
+    {
         "name": "Crushee",
         "url": "http://www.crushee.com/pages/faq",
         "difficulty": "impossible",
